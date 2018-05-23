@@ -5,8 +5,10 @@ html，body {
     padding: 0;
 }
 article{
-    background: #000;
-    font-size: 24px;
-    color: #fff;
+    margin: 50px auto;
+    background: #eee;
+    font-size: 12px;
+    color: #449944;
+    max-width: 1000px;
 }
 
