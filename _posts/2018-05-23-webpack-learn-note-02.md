@@ -1,6 +1,6 @@
 ---
 layout: post
-title: webpack 学习笔记
+title: webpack--清理/dist文件夹
 ---
 
 # webpack学习笔记--清理/dist文件夹
