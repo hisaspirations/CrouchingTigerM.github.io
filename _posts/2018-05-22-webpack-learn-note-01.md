@@ -14,3 +14,6 @@ title: webpack--less-loader
 
 不想点的同学可以直接看以下摘录：
 ```NOTE: npm versions 1 and 2 will automatically install peerDependencies if they are not explicitly depended upon higher in the dependency tree. In the next major version of npm (npm@3), this will no longer be the case. You will receive a warning that the peerDependency is not installed instead. ```
+
+
+[返回](./)

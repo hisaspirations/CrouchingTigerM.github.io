@@ -16,3 +16,5 @@ Object.prototype.toString.call(someVar)
 由于[这篇文章](https://blog.csdn.net/a31017799/article/details/70850418)介绍的已经非常清楚，此处不再赘述。
 
 以上。
+
+[返回](./)
