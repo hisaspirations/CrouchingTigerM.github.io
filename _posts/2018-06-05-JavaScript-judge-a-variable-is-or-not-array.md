@@ -11,10 +11,10 @@ title: JavaScript查漏补缺之判断变量是否数组
 
 当时聊到这里基本就结束了，面试官没再追问。不过其实还有别的方法。
 
-> ES5中给Array增加了isArray(),可以方便地判断一个变量是否数组，但就当前的浏览器环境而言，还是有部分用户的浏览器不支持ES5。接下来就请出终极大宝剑！登登登：
->Object.prototype.toString.call(someVar)
->由于[这篇文章](https://blog.csdn.net/a31017799/article/details/70850418)介绍的已经非常清楚，此处不再赘述。
+ES5中给Array增加了isArray(),可以方便地判断一个变量是否数组，但就当前的浏览器环境而言，还是有部分用户的浏览器不支持ES5。接下来就请出终极大宝剑！登登登：
+Object.prototype.toString.call(someVar)
+由于[这篇文章](https://blog.csdn.net/a31017799/article/details/70850418)介绍的已经非常清楚，此处不再赘述。
 
 以上。
 
-[返回](./)
+[返回](https://www.icenzhao.com/)

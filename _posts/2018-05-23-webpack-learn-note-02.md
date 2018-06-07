@@ -9,4 +9,4 @@ title: webpack--清理/dist文件夹
 
 webpack的插件是如何实现的暂时没有时间细究，之后有空一定补上。
 
-[返回](./)
+[返回](https://www.icenzhao.com/)

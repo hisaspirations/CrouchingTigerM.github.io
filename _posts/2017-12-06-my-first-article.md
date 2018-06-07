@@ -7,4 +7,4 @@ title: My First Article
 
 这是我的第一篇博客
 
-[返回](./)
+[返回](https://www.icenzhao.com/)
