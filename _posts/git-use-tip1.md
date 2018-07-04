@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript查漏补缺之判断变量是否数组
+title: git（非）常用命令总结
 ---
 
 # git（非）常用命令总结
