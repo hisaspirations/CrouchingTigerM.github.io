@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript-数据类型-boolean
+title: JavaScript数据类型之布尔类型
 ---
 
 # JavaScript数据类型之布尔类型
