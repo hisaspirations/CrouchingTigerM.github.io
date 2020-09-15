@@ -60,6 +60,7 @@
           </footer>
         </div>
         <script>
+           window.webfunny && webfunny.wmInitUser("123", "1.0.0")
           window.localStorage.wmUserInfo = JSON.stringify({ userId: new Date().getTime(), projectVersion: '1.0.0' })
           var button = document.getElementById('button')
           button.onclick = function(){
